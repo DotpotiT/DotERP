@@ -47,3 +47,4 @@ package.json
 /man/
 /share/
 /src/
+/env # env directory for our python environment
